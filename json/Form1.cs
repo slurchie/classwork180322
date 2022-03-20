@@ -7,18 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml;
 
-namespace xml
+namespace json
 {
-  
-     public partial class Form1 : Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
         }
-      
-        }
-    }
 
+    }
+}
